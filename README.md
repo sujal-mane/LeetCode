@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/sujal-mane/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Array
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/sujal-mane/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/sujal-mane/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
