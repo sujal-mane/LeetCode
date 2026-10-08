@@ -69,3 +69,22 @@ class Solution {
         
     }
 }
+
+
+
+// Using DFS 
+//     void DFS(int i , int j ,   grid[][] ,boolean vis[][]){
+//     int n=grid.length, int m=grid[0].length;
+//     vis[i][j]= true;
+//     if(i-1>=0 && grid[i-1][j]=='1' && vis[i-1][j]==false){
+//         DFS(i-1 , j , grid , vis)
+//             }
+//     if(i+1<= n-1 && grid[i+1][j]=='1' && vis[i+1][j]==false){
+//         DFS(i+1 , j , grid , vis)
+//             }
+//      if(j-1>=0 && grid[i][j-1]=='1' && vis[i][j-1]==false){
+//         DFS(i , j-1 , grid , vis)
+//             }
+//     if(j+1<=m-1 && grid[i][j+1]=='1' && vis[i][j+1]==false){
+//         DFS(i , j+1 , grid , vis)
+//             }
