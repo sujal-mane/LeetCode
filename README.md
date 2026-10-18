@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/sujal-mane/LeetCode/tree/master/0338-counting-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sujal-mane/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sujal-mane/LeetCode/tree/master/0785-is-graph-bipartite) |
+## String
+|  |
+| ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sujal-mane/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Simulation
+|  |
+| ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sujal-mane/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 <!---LeetCode Topics End-->
