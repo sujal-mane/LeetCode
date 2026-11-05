@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/sujal-mane/LeetCode/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/sujal-mane/LeetCode/tree/master/0389-find-the-difference) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sujal-mane/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Depth-First Search
 |  |
@@ -58,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/sujal-mane/LeetCode/tree/master/0389-find-the-difference) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sujal-mane/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Simulation
 |  |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-mane/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sujal-mane/LeetCode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +82,5 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-mane/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sujal-mane/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
