@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/sujal-mane/LeetCode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/sujal-mane/LeetCode/tree/master/0409-longest-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sujal-mane/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Simulation
 |  |
@@ -70,6 +71,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-mane/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sujal-mane/LeetCode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/sujal-mane/LeetCode/tree/master/0409-longest-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,4 +85,8 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-mane/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sujal-mane/LeetCode/tree/master/0389-find-the-difference) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/sujal-mane/LeetCode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
