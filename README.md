@@ -59,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/sujal-mane/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/sujal-mane/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sujal-mane/LeetCode/tree/master/0409-longest-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sujal-mane/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -69,6 +70,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/sujal-mane/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sujal-mane/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sujal-mane/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sujal-mane/LeetCode/tree/master/0409-longest-palindrome) |
